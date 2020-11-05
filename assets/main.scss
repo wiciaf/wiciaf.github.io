@@ -1,0 +1,69 @@
+---
+---
+
+@import "minima";
+
+/** Basic styling */
+body { font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI Bold", Roboto, Helvetica, Arial, sans-serif,
+  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1;
+  font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
+
+/*    HEADER    */
+.panel {
+  font-size: 45px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.site-header {
+  background-color: #073873;
+  color: white;
+}
+
+.site-nav {
+  float: none;
+  text-align: center;
+  color: white;
+}
+
+.site-nav .page-link {color: white;}
+
+/*    FOOTER    */
+.site-footer {
+  padding: 20px 0;
+}
+
+.footer-heading {
+  text-align: center;
+}
+
+.footer-col-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer-col {
+  display: inline-block;
+  width: auto;
+  padding: 0 20px;
+}
+
+/*    HOME PAGE    */
+.homeContainer {
+  text-align: center;
+}
+
+/*    CONTACT PAGE    */
+.contact-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 0;
+}
+
+.contact-item {
+  padding: 25px;
+}
