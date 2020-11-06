@@ -57,15 +57,16 @@ my_variable: footer.html
 <div style="clear:both;">
   <div style="float:left;">
     <b>Current</b> <br>
-    <i>Eleanor Oliphant is Completely Fine</i> by Gail Honeyman
+    <i>Godel, Escher, Bach: An Eternal Golden Braid</i> by Douglas F Hofstadter
   </div>
   <div style="float:right;">
-    <img src="/images/01.jpg" height=200px>
+    <img src="/images/geb.jpg" height=200px>
   </div>
 </div>
 
 <br> <br> <br> <br> <br>
 <b>Recent</b><br>
+<i>Eleanor Oliphant is Completely Fine</i> by Gail Honeyman <br>
 <i>The Great Divorce</i> by CS Lewis <br>
 <i>What We Talk About When We Talk About Love</i> by Raymond Carver <br>
 <i>Suspended Sentences</i> by Patrick Modiana (Translated by Mark Polizzotti) <br>
