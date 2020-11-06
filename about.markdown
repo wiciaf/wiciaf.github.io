@@ -7,7 +7,7 @@ my_variable: footer.html
 
 ## About My Research
 --------------
-The principal goal of my research is to assist in alleviating poverty by integrating social and behavioral science research into public and private sectors.
+The primary focus of my research is to examine interpersonal connections as a valuable resource for increasing upward social mobility, combating psychological and material barriers. I aim to integrating social and behavioral science research into policy and practice. 
 
 
 <br> <br> <br>
