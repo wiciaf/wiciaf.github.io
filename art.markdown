@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Creative Projects
-permalink: /art/
+permalink: /creatives/
 my_variable: footer.html
 ---
 
-<i>My way of de-stressing and being present</i>
+<i>My way of de-stressing and being present.</i>
 
 ---------------------
 
