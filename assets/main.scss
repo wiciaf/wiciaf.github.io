@@ -10,6 +10,10 @@ body { font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI Bold", Ro
   -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1;
   font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
 
+h1, h2, h3, h4, p {
+  font-family: Helvetica;
+}
+
 /*    HEADER    */
 .panel {
   font-size: 45px;
@@ -18,7 +22,7 @@ body { font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI Bold", Ro
 }
 
 .site-header {
-  background-color: #073873;
+  background: linear-gradient(-90deg, #35577D, #52dea8);
   color: white;
 }
 
@@ -31,10 +35,6 @@ body { font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI Bold", Ro
 .site-nav .page-link {color: white;}
 
 /*    FOOTER    */
-.site-footer {
-  padding: 20px 0;
-}
-
 .footer-heading {
   text-align: center;
 }
@@ -48,22 +48,40 @@ body { font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI Bold", Ro
 .footer-col {
   display: inline-block;
   width: auto;
-  padding: 0 20px;
+  //padding: 0 10px;
 }
 
 /*    HOME PAGE    */
-.homeContainer {
+.homeContainer_image {
+  height: auto;
+  border-radius: 50%;
+}
+
+.home-box {
+  display: flex;
+}
+
+.home-left {
+  float: left;
+  padding: 25px;
+}
+
+.home-right {
+  padding-top: 30px;
+  padding-left: 45px;
   text-align: center;
 }
 
-/*    CONTACT PAGE    */
-.contact-page {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 10px 0;
+.contact-buttons {
+  padding-top: 25px;
 }
 
 .contact-item {
-  padding: 25px;
+  height: 45px;
+  padding: 6px;
+}
+
+ul li {
+  list-style: none;
+  display: inline-block;
 }

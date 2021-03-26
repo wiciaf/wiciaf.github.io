@@ -5,9 +5,9 @@ permalink: /research/
 my_variable: footer.html
 ---
 
-## Research 
+## Research
 --------------
-The primary focus of my research is to examine interpersonal connections as a valuable resource for increasing upward social mobility, combating psychological and material barriers. I aim to integrate social and behavioral science research into policy and practice. 
+The primary focus of my research is to examine interpersonal connections as a valuable resource for increasing upward social mobility, combating psychological and material barriers. I aim to integrate social and behavioral science research into policy and practice.
 
 
 <br> <br> <br>
