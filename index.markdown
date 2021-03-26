@@ -2,17 +2,38 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+# Inspo:
+# https://www.stephanietepper.com
+
 layout: home
 my_variable:
 ---
-<body>
-  <div class="homeContainer">
+
+<div class="home-box" markdown="1">
+  <div class="home-left">
+
     <img src="/images/00.jpg" class="homeContainer_image">
-    <br> <br> <br>
-    <p><b>-- WEBSITE STILL UNDER CONSTRUCTION. Last update: Fall 2020 -- </b> </p>
-    <p><b>
-    Hi, I'm Wicia!</b> Broadly, my research interests lie in how social connections can improve the psychological and material well-being of low status / low class individuals.</p>
-    <p>Since receiving my B.A. in Economics and Cognitive Science from UC Berkeley ('19), I have been  a full-time researcher in the <a href="http://ssnl.stanford.edu/" target=_blank><b>Stanford Social Neuroscience Lab</b></a>, under the direction of  Dr. Jamil Zaki.</p>
-    <p>I am applying to PhD programs in Fall 2020 to start in Fall 2021.</p>
+
+    <div class="contact-buttons">
+        <ul>
+          <li><a href="https://twitter.com/wiciafang" target="_blank" class="contact-item"><img src="/images/social/tweet.svg" class="contact-item"></a></li>
+          <li><a href="mailto:WMFang@stanford.edu" target="_blank"><img src="/images/social/email.svg" class="contact-item"></a></li>
+          <li><a href="https://www.linkedin.com/in/wicia-fang/" target="_blank"><img src="/images/social/linkedin.svg" class="contact-item"></a></li>
+        </ul>
+    </div>
+
   </div>
-</body>
+
+  <div class="home-right">
+
+    <h1>Hi, I'm Wicia!</h1>
+
+    <p>I am an incoming doctoral scholar in the Psychology Department of Cornell University.</p>
+
+    <p>Broadly, my research interests lie in how social connections can improve the psychological and material well-being of low status / low class individuals.</p>
+
+    <p>Since receiving my B.A. in Economics and Cognitive Science from UC Berkeley ('19), I have been  a full-time researcher in the
+    <a href="http://ssnl.stanford.edu/" target=_blank><b>Stanford Social Neuroscience Lab</b></a>, under the direction of  Dr. Jamil Zaki.</p>
+
+  </div>
+</div>
