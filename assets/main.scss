@@ -48,7 +48,7 @@ h1, h2, h3, h4, p {
 .footer-col {
   display: inline-block;
   width: auto;
-  //padding: 0 10px;
+  padding: 0 25px;
 }
 
 /*    HOME PAGE    */
@@ -84,4 +84,86 @@ h1, h2, h3, h4, p {
 ul li {
   list-style: none;
   display: inline-block;
+}
+
+
+/*     Art     */
+.art-container {
+  padding: 20px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+}
+
+.art-description {
+  float: left;
+  width: 50%;
+  padding-right: 20px;
+}
+
+.art-display {
+  float: right;
+  width: 50%
+}
+
+.art-display img {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+
+
+
+// FOR MOBILE
+@media only screen and (max-width: 600px) {
+
+  body {
+    text-align: center;
+  }
+
+  .site-nav .page-link {
+    color: black;
+  }
+
+  // Home Page
+
+  .home-box {
+    display: contents;
+    text-align: center;
+  }
+
+  .home-right {
+    padding-left: 0px;
+  }
+
+  .contact-buttons {
+    padding-right: 20px;
+    display: none;
+  }
+
+  .contact-item {
+    padding: 10px;
+  }
+
+  // Art
+
+  .art-container {
+    display: contents;
+    justify-content: center;
+    padding-bottom: 50px;
+  }
+
+  .art-description {
+    float: none;
+    padding-top: 20px;
+    width: auto;
+  }
+
+  .art-display {
+    float: none;
+    padding-bottom: 50px;
+    width: auto;
+  }
 }
