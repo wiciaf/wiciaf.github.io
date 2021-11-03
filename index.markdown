@@ -26,12 +26,12 @@ my_variable:
 
   <div class="home-right">
 
-    <p><b>Hi, I'm Wicia!</b> I am an incoming doctoral scholar in the Psychology Department of Cornell University.</p>
+    <p><b>Hi, I'm Wicia!</b> I am a Ph.D. student in the Psychology Department of Cornell University.</p>
 
-    <p>Broadly, my research interests lie in how social connections can improve the psychological and material well-being of low status individuals.</p>
+    <p>Broadly, my research interests lie in lay perceptions of status impact the relationship between social connection and well-being.</p>
 
-    <p>Since receiving my B.A. in Economics and Cognitive Science from UC Berkeley ('19), I have been  a full-time researcher in the
-    <a href="http://ssnl.stanford.edu/" target=_blank><b>Stanford Social Neuroscience Lab</b></a>, under the direction of  Dr. Jamil Zaki.</p>
+    <p>After receiving my B.A. in Economics and in Cognitive Science from UC Berkeley ('19), I was   a full-time researcher in the
+    <a href="http://ssnl.stanford.edu/" target=_blank><b>Stanford Social Neuroscience Lab</b></a>, under the direction of  Dr. Jamil Zaki.  </p>
 
   </div>
 </div>
