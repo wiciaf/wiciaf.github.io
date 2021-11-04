@@ -17,7 +17,7 @@ my_variable:
     <div class="contact-buttons">
         <ul>
           <li><a href="https://twitter.com/wiciafang" target="_blank" class="contact-item"><img src="/images/social/tweet.svg" class="contact-item"></a></li>
-          <li><a href="mailto:WMFang@stanford.edu" target="_blank"><img src="/images/social/email.svg" class="contact-item"></a></li>
+          <li><a href="mailto:wmf46@cornell.edu" target="_blank"><img src="/images/social/email.svg" class="contact-item"></a></li>
           <li><a href="https://www.linkedin.com/in/wicia-fang/" target="_blank"><img src="/images/social/linkedin.svg" class="contact-item"></a></li>
         </ul>
     </div>
