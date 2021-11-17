@@ -11,17 +11,6 @@ my_variable:
 
     <img src="/images/00.jpg" class="homeContainer_image">
 
-<<<<<<< Updated upstream
-    <div class="contact-buttons">
-        <ul>
-          <li><a href="https://twitter.com/wiciafang" target="_blank" class="contact-item"><img src="/images/social/tweet.svg" class="contact-item"></a></li>
-          <li><a href="mailto:wmf46@cornell.edu" target="_blank"><img src="/images/social/email.svg" class="contact-item"></a></li>
-          <li><a href="https://www.linkedin.com/in/wicia-fang/" target="_blank"><img src="/images/social/linkedin.svg" class="contact-item"></a></li>
-        </ul>
-    </div>
-
-=======
->>>>>>> Stashed changes
   </div>
 
   <div class="home-right">
