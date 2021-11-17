@@ -7,7 +7,7 @@ my_variable: footer.html
 
 ## Research
 --------------
-The primary focus of my research is to examine interpersonal connections as a valuable resource for increasing upward social mobility, combating psychological and material barriers. I aim to integrate social and behavioral science research into policy and practice.
+The focus of my research is to examine interpersonal connections across social divides as valuable resources to improve psychological and material well-being. I aim to integrate social and behavioral science research into policy and practice.
 
 
 <br> <br> <br>
