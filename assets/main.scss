@@ -144,11 +144,20 @@ ul li {
     color: black;
   }
 
+  .panel {
+    text-align: left;
+    padding: 0 10px;
+  }
+
   // Home Page
 
   .home-box {
     display: contents;
     text-align: center;
+  }
+
+  .home-left {
+    float: none;
   }
 
   .home-right {
