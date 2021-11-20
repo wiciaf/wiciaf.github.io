@@ -1,0 +1,15 @@
+# To-Do List for Weesh
+
+## Global
+
+* New font - Garamond, something more formal
+
+* Top bar should be "minimalist vibe"
+
+
+## Research
+
+* Fix research page
+	* Remove extra "Research" titles
+	* Add plots if shawty has em
+

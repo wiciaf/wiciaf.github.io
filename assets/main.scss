@@ -9,6 +9,7 @@
   font-family: 'Comfortaa', cursive;
   font-family: 'Quicksand', sans-serif;
   font-family: 'Raleway', sans-serif;
+  font-family: 'EB Garamond', serif;
 }
 
 /** Basic styling */
@@ -16,10 +17,10 @@ body { font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI Bold", Ro
   "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1;
-  font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
+  font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column;}
 
 h1, h2, h3, h4, p {
-  font-family: 'Quicksand';
+  font-family: 'EB Garamond';
 }
 
 /*    HEADER    */
@@ -27,11 +28,10 @@ h1, h2, h3, h4, p {
   font-size: 50px;
   text-align: center;
   font-weight: 750;
-  font-family: "Raleway";
 }
 
 .site-header {
-  background: linear-gradient(-90deg, #35577D, #52dea8);
+  background: grey;
   color: white;
 }
 
@@ -67,11 +67,11 @@ h1, h2, h3, h4, p {
 /*    HOME PAGE    */
 .homeContainer_image {
   height: auto;
-  border-radius: 50%;
+  border-radius: 0%;
 }
 
 .home-box {
-  display: flex;
+  //display: flex;
 }
 
 .home-left {
@@ -86,7 +86,7 @@ h1, h2, h3, h4, p {
 }
 
 .home-right p {
-  //text-align: left;
+  text-align: left;
 }
 
 .contact-buttons {
@@ -94,7 +94,7 @@ h1, h2, h3, h4, p {
 }
 
 .contact-item {
-  height: 45px;
+  height: 35px;
   padding: 6px;
 }
 
@@ -144,11 +144,20 @@ ul li {
     color: black;
   }
 
+  .panel {
+    text-align: left;
+    padding: 0 10px;
+  }
+
   // Home Page
 
   .home-box {
     display: contents;
     text-align: center;
+  }
+
+  .home-left {
+    float: none;
   }
 
   .home-right {

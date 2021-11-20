@@ -1,22 +1,4 @@
 
 .DS_Store
-_site/404.html
-_site/assets/main.css
-_site/assets/main.css.map
-_site/assets/minima-social-icons.svg
-_site/CNAME
-_site/contact/index.html
-_site/creatives/index.html
-_site/feed.xml
-_site/images/00.jpg
-_site/images/01.jpg
-_site/images/02.jpg
-_site/images/03.png
-_site/images/04.png
-_site/images/05.jpg
-_site/images/social/email.svg
-_site/images/social/linkedin.svg
-_site/images/social/tweet.svg
-_site/index.html
-_site/research.html
-_site/research/index.html
+_site/*
+.jekyll-cache/*
